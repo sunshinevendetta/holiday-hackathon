@@ -1,3 +1,32 @@
+<<<<<<< HEAD
+# Project Name:
+ChallengeMe
+
+## Team Members:
+- Sunshine Vendetta (sunshinevendetta.lens)
+
+## Project Description:
+ChallengeMe is a real-world challenge platform where users can:
+- Create and host challenges with bounties (Challengers).
+- Participate in challenges to earn rewards (Doers).
+- Watch, vote, and share challenges for random prize allocations (Watchers).
+- Support participants by contributing funds or resources (Supporters).
+
+The platform uses:
+- Lens Protocol for social proofs (e.g., posting challenge completions).
+- A trustless smart contract system on Polygon/zkSync for low-cost transactions.
+- Optional KYC layers (OpenCV integration) to ensure authenticity.
+
+## Source Code Link:
+[ChallengeMe GitHub Repository](https://github.com/sunshinevendetta/holiday-hackathon)
+
+## Screenshots (Optional):
+![ChallengeMe Landing](./screenshots/1.png)
+![ChallengeMe Landing](./screenshots/2.png)
+![ChallengeMe Landing](./screenshots/3.png)
+![ChallengeMe Landing](./screenshots/4.png)
+![ChallengeMe Landing](./screenshots/5.png)
+=======
 # Lens Holiday Hackathon
 
 The Lens Holiday Hackathon is an opportunity to build innovative projects on Lens Network, compete for prizes, and showcase your work to the Lens community.
@@ -68,3 +97,4 @@ Any application deployed to [Lens Network Testnet](https://dev-preview.lens.xyz/
 2. Ask in public, in the Hackathons channel. Neither devs nor the community will answer via DM.
 3. Share what you’re building with others. Building the same thing as another team? Merge teams! Anything goes as long as what you build is amazing.
 4. Be kind, respectful and patient. Some days might be slower on responses than others, as we are also on a holiday week.
+>>>>>>> upstream/master
